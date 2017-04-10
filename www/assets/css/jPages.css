@@ -1,0 +1,35 @@
+.jPages-holder,.holder {
+	margin: 15px 0;
+}
+
+.jPages-holder  a,.holder a {
+	font-size: 12px;
+	cursor: pointer;
+	margin: 0 5px;
+	color: #333;
+}
+
+.jPages-holder a:hover,.holder a:hover {
+	background-color: #222;
+	color: #fff;
+}
+
+.jPages-holder a.jp-previous ,.holder a.jp-previous { margin-right: 15px; }
+.jPages-holder a.jp-next,.holder a.jp-next { margin-left: 15px; }
+
+.jPages-holder a.jp-current,.holder a.jp-current, a.jp-current:hover { 
+	color: #FF4242;
+	font-weight: bold;
+}
+
+.jPages-holder,.holder a.jp-disabled, a.jp-disabled:hover {
+	color: #bbb;
+}
+
+.jPages-holder a.jp-current,.holder a.jp-current, a.jp-current:hover,
+.jPages-holdera.jp-disabled,.holder a.jp-disabled, a.jp-disabled:hover {
+	cursor: default; 
+	background: none;
+}
+
+.jPages-holder,.holder span { margin: 0 5px; }

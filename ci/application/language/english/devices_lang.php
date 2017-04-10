@@ -1,0 +1,5 @@
+<?php
+// english
+$lang['ci_devices.preface']	= "<p>This table shows the devices and control systems manufactured by companies that are technology partners with THRONE. You can sort the table by BUS type, as well as by equipment manufacturer (Vendor).</p>".
+                              "<p>All the devices in the table are potentially compatible with THRONE by protocol. Nevertheless, we regularly conduct direct tests of the equipment in conjunction with THRONE. If the status of the equipment is designated as 'tested', then it is tested directly by our engineers, and we are convinced that it works correctly. If the status is 'waiting', then testing will be performed later.</p>".
+                              "<p>For convenience, the lines with tested equipment are marked with the green background. The table will be constantly updated as testing the equipment.</p>";

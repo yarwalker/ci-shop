@@ -1,0 +1,1 @@
+<a class="btn btn-primary webinar_signup" href="<?=( language_code() == 'ru' ? 'http://throne-bms.com/pro/ru/blog/entry/89' : 'http://throne-bms.com/pro/blog/entry/90')?>"><?=lang('ci_base.signup_webinar')?></a>
